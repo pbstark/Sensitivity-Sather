@@ -1,0 +1,12 @@
+chaospy
+IPython
+ipywidgets
+matplotlib==2
+numba
+numpy
+pandas
+seaborn
+scipy
+sobol_seq
+statsmodels
+xlrd==1.1.0
